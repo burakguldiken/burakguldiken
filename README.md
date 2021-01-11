@@ -8,7 +8,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/burakguldiken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="burakguldiken" height="20" width="30" /></a>
 <a href="https://instagram.com/burakguldiken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakguldiken" height="20" width="30" /></a>
 </p>
 
