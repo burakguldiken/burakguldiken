@@ -6,11 +6,6 @@
 
 - 💬 Ask me about **.net, .net core, vue.js, rabbitmq, redis**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://instagram.com/burakguldiken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakguldiken" height="20" width="30" /></a>
-</p>
-
 ## For My Medium Stories : [Medium Link](https://burakguldiken1.medium.com/)
 
 ## For My Portfolio : [Portfolio](https://burakguldiken.github.io/)
