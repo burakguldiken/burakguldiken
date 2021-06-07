@@ -11,7 +11,9 @@
 <a href="https://instagram.com/burakguldiken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakguldiken" height="20" width="30" /></a>
 </p>
 
-For My Medium Stories : [Medium Link](https://burakguldiken1.medium.com/)
+## For My Medium Stories : [Medium Link](https://burakguldiken1.medium.com/)
+
+## For My Portfolio : [Portfolio](https://burakguldiken.github.io/)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakguldiken&layout=compact" alt="burakguldiken" /></p>
 
