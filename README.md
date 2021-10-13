@@ -1,5 +1,5 @@
 <h1 align="center">👋 Burak Güldiken</h1>
-<h3 align="center">Hello, while I'm Burak Güldiken, I'm doing improvements on the backend and frontend side. I usually use vue.js, javascript, html, css technologies on the frontend side. On the backend side, I use .net core.
+<h3 align="center">Hello, I'm Burak Güldiken, I'm doing improvements on the backend and frontend side. I usually use vue.js, javascript, html, css technologies on the frontend side. On the backend side, I use .net core.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakguldiken" alt="burakguldiken" /> </p>
